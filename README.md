@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/adityasri12/Interactive_Rating_Component_Main/blob/main/index.html)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://adityasri12.github.io/Interactive_Rating_Component_Main/index.html)
 
 ## My process
 
